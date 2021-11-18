@@ -1,6 +1,6 @@
 # RNA Splicing
-from Utils.CodonTable import protein_from_rna
-from Utils.DNA_to_RNA import dna_to_rna
+from Rosalind.CodonTable import protein_from_rna
+from Rosalind.DNA_to_RNA import dna_to_rna
 
 s = None
 introns = []

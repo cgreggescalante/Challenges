@@ -1,5 +1,5 @@
 # Creating a Distance Matrix
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 strings = [a for a in load('../Resources/rosalind_pdst.txt').values()]
 

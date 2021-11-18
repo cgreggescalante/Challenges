@@ -1,5 +1,5 @@
 # Consensus and Profile
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 data = load('../Resources/rosalind_cons.txt')
 

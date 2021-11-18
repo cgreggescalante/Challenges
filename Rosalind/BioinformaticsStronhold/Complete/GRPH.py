@@ -1,5 +1,5 @@
 # Overlap Graphs
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 data = load("../Resources/rosalind_grph.txt")
 

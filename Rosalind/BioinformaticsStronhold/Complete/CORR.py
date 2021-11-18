@@ -1,6 +1,6 @@
 # Error Correction in Reads
-from Utils.DNA_to_RNA import reverse_complement
-from Utils.FASTALoader import load
+from Rosalind.DNA_to_RNA import reverse_complement
+from Rosalind.FASTALoader import load
 
 data = [a for a in load('../Resources/rosalind_corr.txt').values()]
 

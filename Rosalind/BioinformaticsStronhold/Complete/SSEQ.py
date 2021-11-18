@@ -1,5 +1,5 @@
 # Finding a Spliced Motif
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 data = load('../Resources/rosalind_sseq.txt')
 values = [a for a in data.values()]

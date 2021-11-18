@@ -2,7 +2,7 @@
 
 masses = []
 
-with open("../../Utils/monoisotopicMassTable", 'r') as file:
+with open("../../monoisotopicMassTable", 'r') as file:
     lines = file.readlines()
 
     for line in lines:

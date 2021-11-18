@@ -1,5 +1,5 @@
 # Genome Assembly as Shortest Superstring
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 strings = [a for a in load('../Resources/rosalind_long.txt').values()]
 

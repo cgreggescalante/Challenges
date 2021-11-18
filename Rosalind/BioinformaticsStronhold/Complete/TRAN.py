@@ -1,5 +1,5 @@
 # Transitions and Transversions
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 strings = [a for a in load('../Resources/rosalind_tran.txt').values()]
 

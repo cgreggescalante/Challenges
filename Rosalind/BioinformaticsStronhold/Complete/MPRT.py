@@ -1,5 +1,5 @@
 # Finding a Protein Motif
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 proteins = []
 

@@ -1,5 +1,5 @@
 # Speeding Up Motif Finding
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 s = [a for a in load('../Resources/rosalind_kmp.txt').values()][0]
 

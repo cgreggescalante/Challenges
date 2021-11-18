@@ -1,5 +1,5 @@
 # Finding a Shared Motif
-from Utils.FASTALoader import load
+from Rosalind.FASTALoader import load
 
 data = load('../Resources/rosalind_lcsm.txt')
 
