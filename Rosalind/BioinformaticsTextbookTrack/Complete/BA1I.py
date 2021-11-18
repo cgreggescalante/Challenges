@@ -3,7 +3,7 @@ import os
 
 from tqdm import tqdm
 
-from Utils.Misc import hamming_distance, d_neighborhood
+from Rosalind.Misc import hamming_distance, d_neighborhood
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()

@@ -1,7 +1,7 @@
 # Translate an RNA String into an Amino Acid String
 import os
 
-from Utils.CodonTable import protein_from_rna
+from Rosalind.CodonTable import protein_from_rna
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     pattern = file.readline().strip()

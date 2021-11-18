@@ -1,7 +1,7 @@
 # Construct the De Bruijn Graph of a String
 import os
 
-from Utils.Misc import k_mer_composition
+from Rosalind.Misc import k_mer_composition
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     k = int(file.readline())

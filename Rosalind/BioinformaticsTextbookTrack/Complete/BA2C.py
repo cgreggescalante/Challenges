@@ -1,7 +1,7 @@
 # Find a Profile-most Probable k-mer in a String
 import os
 
-from Utils.Misc import pattern_to_number
+from Rosalind.Misc import pattern_to_number
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()

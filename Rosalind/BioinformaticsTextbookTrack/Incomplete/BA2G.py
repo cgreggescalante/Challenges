@@ -1,7 +1,7 @@
 # Implement GibbsSampler
 import os
 
-from Utils.Misc import gibbs_sampler
+from Rosalind.Misc import gibbs_sampler
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     k, t, N = map(int, file.readline().split())

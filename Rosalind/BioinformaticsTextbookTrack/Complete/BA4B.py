@@ -1,8 +1,8 @@
 # Find Substrings of a Genome Encoding a Given Amino Acid String
 import os
 
-from Utils.CodonTable import rna_from_protein
-from Utils.DNA_to_RNA import rna_to_dna, reverse_complement
+from Rosalind.CodonTable import rna_from_protein
+from Rosalind.DNA_to_RNA import rna_to_dna, reverse_complement
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     text = file.readline().strip()

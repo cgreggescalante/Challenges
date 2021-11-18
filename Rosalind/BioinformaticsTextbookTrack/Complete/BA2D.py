@@ -1,7 +1,7 @@
 # Implement GreedyMotifSearch
 import os
 
-from Utils.Misc import greedy_motif_search
+from Rosalind.Misc import greedy_motif_search
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()

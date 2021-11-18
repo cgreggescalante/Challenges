@@ -1,7 +1,7 @@
 # Implement RandomizedMotifSearch
 import os
 
-from Utils.Misc import randomized_motif_search
+from Rosalind.Misc import randomized_motif_search
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()

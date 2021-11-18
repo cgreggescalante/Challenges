@@ -1,7 +1,7 @@
 # Compute the Hamming Distance Between Two Strings
 import os
 
-from Utils.Misc import hamming_distance
+from Rosalind.Misc import hamming_distance
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()

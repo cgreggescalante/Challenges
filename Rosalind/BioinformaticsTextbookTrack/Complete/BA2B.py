@@ -1,7 +1,7 @@
 # Find a Median String
 import os
 
-from Utils.Misc import number_to_pattern, hamming_distance
+from Rosalind.Misc import number_to_pattern, hamming_distance
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()

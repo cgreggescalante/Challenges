@@ -3,8 +3,8 @@ import os
 
 from tqdm import tqdm
 
-from Utils.DNA_to_RNA import reverse_complement
-from Utils.Misc import hamming_distance, d_neighborhood
+from Rosalind.DNA_to_RNA import reverse_complement
+from Rosalind.Misc import hamming_distance, d_neighborhood
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()

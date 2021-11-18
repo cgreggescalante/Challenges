@@ -1,7 +1,7 @@
 # Generate the Theoretical Spectrum of a Cyclic Peptide
 import os
 
-from Utils.MonoisotopicMassTable import mass
+from Rosalind.MonoisotopicMassTable import mass
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     peptide = file.readline().strip()

@@ -1,7 +1,7 @@
 # Implement DistanceBetweenPatternAndStrings
 import os
 
-from Utils.Misc import distance_between_pattern_and_strings
+from Rosalind.Misc import distance_between_pattern_and_strings
 
 with open(f"../Resources/rosalind_{os.path.basename(__file__)[:-3].lower()}.txt") as file:
     lines = file.readlines()
