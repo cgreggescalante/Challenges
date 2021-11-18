@@ -34,7 +34,7 @@ for site, dir in data:
     for sd in incomplete_dirs:
         for a in os.walk(sd):
             count_incomplete += len(a[2])
-    mdFile.new_line(f"### {site['name']}\n")
+    mdFile.new_line(f"## {site['name']}\n")
     mdFile.new_line(f"Completed: {count_complete}")
     mdFile.new_line(f"Attempted: {count_complete + count_incomplete}")
 

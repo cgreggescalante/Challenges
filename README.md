@@ -12,23 +12,23 @@ All my coding challenge progress for the following websites.
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
 
   
-### CodeForces
+## CodeForces
   
 Completed: 69  
 Attempted: 75  
-### Kattis
+## Kattis
   
 Completed: 157  
 Attempted: 180  
-### ProjectEuler
+## ProjectEuler
   
 Completed: 122  
 Attempted: 185  
-### Rosalind
+## Rosalind
   
 Completed: 77  
 Attempted: 86  
-### Sphere Online Judge (SPOJ)
+## Sphere Online Judge (SPOJ)
   
 Completed: 12  
 Attempted: 15
