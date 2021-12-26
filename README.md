@@ -6,6 +6,7 @@ Challenges
 All my coding challenge progress for the following websites.
 
 - [CodeForces](https://codeforces.com/)
+- [CodeForces - Python](https://codeforces.com/)
 - [Kattis](https://open.kattis.com/)
 - [ProjectEuler](https://projecteuler.net/)
 - [Rosalind](http://rosalind.info/problems/list-view/)
@@ -16,18 +17,22 @@ All my coding challenge progress for the following websites.
   
 Completed: 69  
 Attempted: 75  
+## CodeForces - Python
+  
+Completed: 1  
+Attempted: 2  
 ## Kattis
   
 Completed: 157  
 Attempted: 180  
 ## ProjectEuler
   
-Completed: 122  
-Attempted: 185  
+Completed: 124  
+Attempted: 187  
 ## Rosalind
   
 Completed: 77  
-Attempted: 86  
+Attempted: 87  
 ## Sphere Online Judge (SPOJ)
   
 Completed: 12  
