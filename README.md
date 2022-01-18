@@ -23,16 +23,16 @@ Completed: 1
 Attempted: 2  
 ## Kattis
   
-Completed: 157  
-Attempted: 180  
+Completed: 171  
+Attempted: 199  
 ## ProjectEuler
   
 Completed: 124  
-Attempted: 187  
+Attempted: 188  
 ## Rosalind
   
-Completed: 77  
-Attempted: 87  
+Completed: 94  
+Attempted: 106  
 ## Sphere Online Judge (SPOJ)
   
 Completed: 12  
