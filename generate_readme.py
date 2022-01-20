@@ -1,3 +1,4 @@
+import datetime
 import json
 import os
 
@@ -38,5 +39,7 @@ for site, dir in data:
     mdFile.new_line(f"Completed: {count_complete}")
     mdFile.new_line(f"Attempted: {count_complete + count_incomplete}")
 
+print(datetime.datetime.now().strftime('%I:%M %p, %B %e, %Y'))
+mdFile.new_line(f"\n\nLast updated {datetime.datetime.now().strftime('%I:%M %p, %B %e, %Y')}")
 mdFile.create_md_file()
 

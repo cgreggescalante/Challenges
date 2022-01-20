@@ -36,4 +36,7 @@ Attempted: 106
 ## Sphere Online Judge (SPOJ)
   
 Completed: 12  
-Attempted: 15
+Attempted: 15  
+
+
+Last updated 04:16 PM, January 20, 2022
